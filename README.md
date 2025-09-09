@@ -11,7 +11,7 @@ Downloads YouTube videos and extracts audio, first frame, and isolated voice tra
 ## Usage
 
 ```bash
-# Install dependencies
+# Install dependencies (optional, you can directly use uv run)
 uv sync
 
 # Process a YouTube video
